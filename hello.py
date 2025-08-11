@@ -6,4 +6,4 @@ b = 20
 print(a)
 print(b)
 
-str2 = "this is a new string"
+str = "this is the final branch code"
